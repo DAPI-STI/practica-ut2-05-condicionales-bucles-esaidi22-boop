@@ -134,7 +134,8 @@ source .venv/bin/activate
 
 2) Instalar dependencias
 
-pip install -r requirements.txt
+
+
 
 Cómo trabajar durante la práctica
 A) Ejecutar los tests (forma recomendada)
